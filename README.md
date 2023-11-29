@@ -16,9 +16,9 @@ I love teamwork and am fluent in both English and French.
 
 - 📄 Know about my experiences: [resume.pdf](https://www.simon-alibert.com/Simon%20Alibert%20-%20resume%202023%20-%20en.pdf)
 
-<br />
+
 <details>
-    <summary><font size="+1"><b> &nbsp; Connect with me &nbsp;🤝 </font></b></summary>
+    <summary><font size="+2"><b> &nbsp; Connect with me &nbsp;🤝 </font></b></summary>
     <a href="mailto:alibert.sim@gmail.com" >
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
@@ -32,10 +32,10 @@ I love teamwork and am fluent in both English and French.
         <img alt="SoundCloud" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
     </a>
 </details>
-<br />
+
 
 <details>
-    <summary><font size="+1"><b> &nbsp; What I work with &nbsp;👨‍💻 </font></b></summary>
+    <summary><font size="+2"><b> &nbsp; What I work with &nbsp;👨‍💻 </font></b></summary>
     <img alt="Languages" src="https://img.shields.io/badge/✍️_languages:-white?style=for-the-badge" />
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
