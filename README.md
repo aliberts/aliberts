@@ -10,7 +10,7 @@ I love teamwork and am fluent in both English and French.
 
 - 🔭 I’m currently working on [Intergalactic News](https://github.com/aliberts/intergalactic-news)
 
-- 👨‍💻 My projects are also available at [https://www.simon-alibert.com/](https://www.simon-alibert.com/)
+- 👀 My projects are also available at [https://www.simon-alibert.com/](https://www.simon-alibert.com/)
 
 - 💬 Ask me about **Python, ML Engineering, Deep Learning**
 
