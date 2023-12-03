@@ -74,7 +74,10 @@ I love teamwork and am fluent in both English and French.
     <img alt="Infra" src="https://img.shields.io/badge/🧱_infra:-white?style=for-the-badge" />
     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" />
     <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white" />
+    <br />
+    <img alt="Cloud Providers" src="https://img.shields.io/badge/☁️_cloud_providers:-white?style=for-the-badge" />
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
