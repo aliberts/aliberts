@@ -1,26 +1,17 @@
-# Hey there 👋
+## Hey there 👋
 
 My name is Simon,
 
-I care deeply about the meaning and the impact of my work. I love taking on challenging problems and pushing my technical knowledge further. I can work from running experiments with models or optimize them, to the deployment and the management of their lifecycle in production.
+I started my career in actuarial science, coming from a statistician background. In 2021, I pivoted to ML and I have been working as a machine learning engineer since then. I care deeply about the meaning and the impact of my work. I love taking on challenging problems and pushing my technical knowledge further. I love open source Python, Astronomy/Astrophysics, learning & doing cool stuff with neural nets. 🪐🤖
 
-I love teamwork and am fluent in both English and French.
+I love teamwork and am fluent in both English and French. Checkout my website: https://www.simon-alibert.com/
 
-- ❤️ I am passionate about Astronomy, Astrophysics and AI 🪐🤖
-
-- 🔭 I’m currently working on [Intergalactic News](https://github.com/aliberts/intergalactic-news)
-
-- 👀 My projects are also available at [https://www.simon-alibert.com/](https://www.simon-alibert.com/)
-
-- 💬 Ask me about **Python, ML Engineering, Deep Learning**
-
-- 📄 Know about my experiences: [resume.pdf](https://www.simon-alibert.com/Simon%20Alibert%20-%20resume%202023%20-%20en.pdf)
-
+Thanks for stopping by!
 
 <details>
     <summary><font size="+2"><b> &nbsp; Connect with me &nbsp;🤝 </font></b></summary>
     <a href="mailto:alibert.sim@gmail.com" >
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img alt="Gmail" src="https://img.shields.io/badge/alibert.sim@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://linkedin.com/in/salibert" >
         <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
